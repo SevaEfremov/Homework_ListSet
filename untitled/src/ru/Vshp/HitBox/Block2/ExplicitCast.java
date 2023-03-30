@@ -1,0 +1,11 @@
+package ru.Vshp.HitBox.Block2;
+
+public class ExplicitCast {
+    public static void main(String[] args) {
+
+        long l=10;
+        double d = 1;
+        l = (long) d;
+    } // main(String[])
+
+} // ExplicitCast class
